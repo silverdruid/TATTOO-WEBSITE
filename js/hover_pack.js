@@ -30,7 +30,7 @@ jQuery(document).ready(function(){
 	/* Fade */
 	jQuery('.b-link-fade').each(function(index, element) {
 		jQuery(this).append('<div class="b-top-line"></div>')
-	});
+	}); 
 	
 	/* Flow */
 	jQuery('.b-link-flow').each(function(index, element) {
